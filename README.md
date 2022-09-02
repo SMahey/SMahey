@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SMahey
-- 👀 I’m interested in ... anything, my interest changes by time, currently its in acting, singing, programming, etcetera
+- 👀 I’m interested in ... web development, web design and programming
 - 🌱 I’m currently learning ... Computer Science
-- 💞️ I’m looking to collaborate on ... Game and software projects
+- 💞️ I’m looking to collaborate on ... Web development projects
 - 📫 How to reach me ... sahilmahey929@gmail.com
 
 <!---
